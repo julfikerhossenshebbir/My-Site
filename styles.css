@@ -1,8 +1,8 @@
 body {
     font-family: 'Roboto Slab', sans-serif;
-    background: linear-gradient(45deg, #4B4B4B, #6A4C9C, #9B6DC4, #5A3D6D);
+    background: linear-gradient(45deg, #2e2e2e, #ff7043);
     background-size: 200% 200%;
-    animation: waterAnimation 2.5s infinite alternate;
+    animation: gradientAnimation 3s infinite alternate;
     margin: 0;
     padding: 0;
     display: flex;
@@ -12,7 +12,7 @@ body {
     flex-direction: column;
 }
 
-@keyframes waterAnimation {
+@keyframes gradientAnimation {
     0% { background-position: 0% 0%; }
     25% { background-position: 50% 25%; }
     50% { background-position: 100% 50%; }
