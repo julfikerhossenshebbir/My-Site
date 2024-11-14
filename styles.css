@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto Slab', sans-serif;
-    background: linear-gradient(45deg, #373B6D, #1B2EFF);
+    background: linear-gradient(45deg, #6A8D92, #3E4A56, #5C758E, #A2B9B8);
     background-size: 200% 200%;
     animation: waterAnimation 2.5s infinite alternate;
     margin: 0;
