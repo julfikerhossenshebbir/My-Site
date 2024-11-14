@@ -79,7 +79,7 @@ p {
     align-items: center;
     background-color: rgba(255, 255, 255, 0.1); /* হালকা ট্রান্সপারেন্ট ব্যাকগ্রাউন্ড */
     padding: 10px 20px;
-    border-radius: 15%; /* গোলাকার কোণ */
+    border-radius: 15px; /* গোলাকার কোণ */
     margin: 10px 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* হালকা শ্যাডো */
 }
@@ -88,7 +88,7 @@ p {
     width: 40px; /* আইকনের প্রস্থ */
     height: 40px; /* আইকনের উচ্চতা */
     margin-right: 15px; /* টেক্সটের সাথে দূরত্ব */
-    border-radius: 25%;
+    border-radius: 20%;
 }
 
 a {
