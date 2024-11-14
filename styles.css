@@ -82,6 +82,14 @@ p {
     border-radius: 15px; /* গোলাকার কোণ */
     margin: 10px 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* হালকা শ্যাডো */
+    cursor: pointer; /* কিউরসরের ধরন পরিবর্তন */
+}
+
+.link-card a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #fff; /* টেক্সটের রঙ */
 }
 
 .icon {
@@ -91,11 +99,9 @@ p {
     border-radius: 20%;
 }
 
-a {
-    text-decoration: none;
-    color: #fff; /* টেক্সটের রঙ */
+a span {
     font-size: 16px;
-}      
+}
 .social-icons {
     display: flex;
     justify-content: center;
