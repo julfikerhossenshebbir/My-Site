@@ -74,6 +74,44 @@ p {
     background-color: #0056b3;
 }
 
+.link-card {
+
+    display: flex;
+
+    align-items: center;
+
+    background-color: rgba(255, 255, 255, 0.1);
+
+    padding: 10px 20px;
+
+    border-radius: 15px;
+
+    margin: 10px 0;
+
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.icon {
+
+    width: 40px;
+
+    height: 40px;
+
+    margin-right: 15px;
+
+}
+
+a {
+
+    text-decoration: none;
+
+    color: #fff;
+
+    font-size: 16px;
+
+}
+
 .social-icons {
     display: flex;
     justify-content: center;
