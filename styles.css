@@ -43,8 +43,8 @@ body {
 .profile-picture {
     border: 5px solid white;
     border-radius: 50%;
-    width: 120px;
-    height: 120px; 
+    width: 110px;
+    height: 110px; 
     display: block;
     margin: 0 auto 20px;
 }
@@ -88,7 +88,7 @@ p {
     width: 40px; /* আইকনের প্রস্থ */
     height: 40px; /* আইকনের উচ্চতা */
     margin-right: 15px; /* টেক্সটের সাথে দূরত্ব */
-    border-radius: 15%;
+    border-radius: 25%;
 }
 
 a {
