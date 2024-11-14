@@ -24,7 +24,7 @@ body {
 
     background: rgba(255, 255, 255, 0.1);
 
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(500px);
 
     border-radius: 10px;
 
@@ -51,12 +51,12 @@ body {
 
 h1 {
     font-family: 'Oswald', sans-serif;
-    color: #333;
+    color: #FFFFFF;
     font-size: 25px;
 }
 
 p {
-    color: #333;
+    color: #FFFFFF;
 }
 
 .links a {
