@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
     background: linear-gradient(45deg,#6C63FF, #FF8A80, #42A5F5, #FFEB3B);
     background-size: 200% 200%;
     animation: waterAnimation 5s infinite alternate;
