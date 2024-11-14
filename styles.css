@@ -88,6 +88,7 @@ p {
     width: 40px; /* আইকনের প্রস্থ */
     height: 40px; /* আইকনের উচ্চতা */
     margin-right: 15px; /* টেক্সটের সাথে দূরত্ব */
+    border-radius: 15%;
 }
 
 a {
